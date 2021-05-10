@@ -13,8 +13,8 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/nitoneum-project/nitoneum.git"
-  "dir": "nitoneum"
+- "url": "https://github.com/nitoneum/core.git"
+  "dir": "core"
 files:
 - "qt-win32-4.8.5-gitian-r8.zip"
 - "boost-win32-1.55.0-gitian-r6.zip"
@@ -31,7 +31,7 @@ script: |
   unzip ../build/bitcoin08-deps-win32-gitian-r13.zip
   cd $HOME/build/
   #
-  cd nitoneum
+  cd core
   export PATH=$STAGING/host/bin:$PATH
   mkdir -p $OUTDIR/src
   git archive HEAD | tar -x -C $OUTDIR/src
