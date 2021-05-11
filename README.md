@@ -15,6 +15,10 @@
 <a href="https://github.com/nitoneum/core/commits/main">
   <img src="https://img.shields.io/github/last-commit/nitoneum/core">
 </a>
+<a href="https://github.com/nitoneum/donations#readme">
+  <img alt="Make a donation" title="Make a donation" src="https://img.shields.io/badge/%24-donate-orange">
+</a>
+
 </p>
 
 Nitoneum is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Nitoneum uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Nitoneum Core is the name of open source software which enables the use of this currency.
