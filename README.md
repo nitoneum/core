@@ -18,6 +18,9 @@
 <a href="https://github.com/nitoneum/donations#readme">
   <img alt="Make a donation" title="Make a donation" src="https://img.shields.io/badge/%24-donate-orange">
 </a>
+<a href="https://discord.gg/8tpY6BrP" target="_blank">
+  <img alt="Join Discord" title="Join Discord" src="https://img.shields.io/discord/842843496133165118">
+</a>
 
 </p>
 
